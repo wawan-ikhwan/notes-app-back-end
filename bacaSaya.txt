@@ -1,7 +1,7 @@
 Di tes dan bekerja dengan baik menggunakan:
--Postman v8.7.0
--Nodejs v15.14.0
+-Postman v10.18
+-Nodejs v18.18.0
 
 Note:
--Dikarenakan node_modules tidak perlu disubmit, maka anda diharapkan menjalankan "npm install" terlebih dahulu.
--Gaya penulisan javascript saya bisa anda lihat sendiri di file konfigurasi .eslintrc.json
+-Dikarenakan node_modules tidak perlu disubmit, maka Anda diharapkan menjalankan "npm install" terlebih dahulu.
+-Gaya penulisan javascript saya sesuai dengan file konfigurasi .eslintrc.json
